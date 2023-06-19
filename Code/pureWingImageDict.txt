@@ -1,0 +1,13 @@
+line	sex	mag
+ZI192	F	4x
+ZI192	M	4x
+ZI418	F	4x
+ZI418	M	4x
+ZI251	F	4x
+ZI251	M	4x
+EF81	F	2x
+EF96	M	2x
+EF96	F	2x
+EF81	M	4x
+EF43	F	4x
+EF43	M	4x
