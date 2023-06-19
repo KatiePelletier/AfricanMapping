@@ -1,0 +1,12 @@
+delLine	pannel
+25015	DrosDel
+25693	DrosDel
+25727	DrosDel
+26537	DrosDel
+27375	DrosDel
+7670	Exelixis
+7671	Exelixis
+7672	Exelixis
+7740	Exelixis
+DDC	DrosDel
+ExC	Exelixis
